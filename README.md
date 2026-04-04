@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=700&lines=⚡+Cyberpunk+AI+Developer;🚀+Building+Future+with+AI;🧠+Inventing+the+Impossible"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=700&lines=⚡+Code+Break+Fix+Repeat;🚀+Not+Dreaming+It+Building+It;🧠+Built+Tested+Deployed"/>
 </p>
 
 <p align="center">
