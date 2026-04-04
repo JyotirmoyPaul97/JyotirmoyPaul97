@@ -82,8 +82,8 @@
 ## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyPaul97&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotirmoyPaul97&theme=tokyonight"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ## ✨ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=JyotirmoyPaul97&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
