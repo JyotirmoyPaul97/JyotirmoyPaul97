@@ -82,6 +82,14 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:333399,100:00ffff&height=150&section=header&text=AI%20SYSTEM%20ONLINE&fontColor=ffffff&fontSize=30&animation=blinking"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Initializing+Neural+Network...;Loading+AI+Modules...;System+Ready+🚀"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyPaul97&show_icons=true&theme=tokyonight&rank_icon=github"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotirmoyPaul97&theme=tokyonight"/>
 </p>
