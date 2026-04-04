@@ -58,16 +58,41 @@
 
 ## 🤖 AI Tools I Use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ai"/>
+<p align="center">
+
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-00ffcc?style=for-the-badge&logo=openai&logoColor=black"/>
+  </a>
+
+  <a href="https://replit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-Code%20AI-orange?style=for-the-badge&logo=replit&logoColor=white"/>
+  </a>
+
+  <a href="https://x.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Grok-xAI-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Emergent%20AI-Experimental-purple?style=for-the-badge"/>
+  </a>
+
+  <a href="https://notebooklm.google/" target="_blank">
+    <img src="https://img.shields.io/badge/NotebookLM-Google%20AI-blue?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini-AI%20Model-00c3ff?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+
 </p>
 
-- ChatGPT  
-- Replit  
-- Grok  
-- Emergent AI  
-- NotebookLM  
-- Gemini  
+---
+
+### ⚡ AI System Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=700&lines=Initializing+AI+Tools...;Loading+Neural+Assistants...;All+Systems+Operational+🚀"/>
+</p>
 
 ---
 
