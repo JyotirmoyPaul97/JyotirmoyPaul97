@@ -82,7 +82,7 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:333399,100:00ffff&height=150&section=header&text=AI%20SYSTEM%20ONLINE&fontColor=ffffff&fontSize=30&animation=blinking"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:333399,100:00ffff&height=150&section=header&text=CODE%20DATA%20INTELLIGENCE&fontColor=ffffff&fontSize=30&animation=blinking"/>
 </p>
 
 <p align="center">
