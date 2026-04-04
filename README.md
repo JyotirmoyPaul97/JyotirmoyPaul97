@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyPaul97&show_icons=true&theme=tokyonight&rank_icon=github"/>
@@ -91,12 +91,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="jyotirmoy-paul-00525a370">
-    <img src="https://img.shields.io/badge/LinkedIn-3D%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/jyotirmoy-paul-00525a370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="the_viberiser989">
+
+  <a href="https://instagram.com/the_viberiser989" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
   </a>
+
   <a href="mailto:jyotirmoypaul2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
@@ -104,7 +106,7 @@
 
 ---
 
-## 🔥 Contribution Graph (3D Snake Animation)
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
