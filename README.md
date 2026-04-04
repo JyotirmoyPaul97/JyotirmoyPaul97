@@ -1,9 +1,15 @@
 <!-- HEADER with 3D Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jyotirmoy%20Paul&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=JYOTIRMOY%20PAUL&fontSize=45&fontColor=00ffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">🚀 AI Developer | Building Real-World Solutions</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=700&lines=⚡+Cyberpunk+AI+Developer;🚀+Building+Future+with+AI;🧠+Inventing+the+Impossible"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:333399,100:00ffff&height=80&section=header&text=SYSTEM%20ONLINE&fontSize=20&fontColor=ffffff&animation=blinking"/>
+</p>
 
 ---
 
