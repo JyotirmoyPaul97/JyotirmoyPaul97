@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" height="320px">
+</div>
+  
 <!-- HEADER with 3D Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=JYOTIRMOY%20PAUL&fontSize=45&fontColor=00ffff&animation=fadeIn&fontAlignY=35"/>
